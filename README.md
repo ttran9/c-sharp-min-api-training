@@ -6,4 +6,4 @@
 
 - For now I am using Ubuntu 18.04 LTS so I followed this [guide](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-1804) to make sure I was able to install .NET 7.0.203
   - dotnet --version
-- f
+- TBA
