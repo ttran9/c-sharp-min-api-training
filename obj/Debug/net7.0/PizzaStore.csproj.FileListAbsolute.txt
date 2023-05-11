@@ -24,3 +24,9 @@
 /home/todd/Desktop/PizzaStore/obj/Debug/net7.0/PizzaStore.pdb
 /home/todd/Desktop/PizzaStore/obj/Debug/net7.0/PizzaStore.genruntimeconfig.cache
 /home/todd/Desktop/PizzaStore/obj/Debug/net7.0/ref/PizzaStore.dll
+/home/todd/Desktop/PizzaStore/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/todd/Desktop/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/todd/Desktop/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/todd/Desktop/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/todd/Desktop/PizzaStore/obj/Debug/net7.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+/home/todd/Desktop/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.CopyComplete
